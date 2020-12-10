@@ -1,40 +1,42 @@
 h1 {
   text-align: center;
-  background: url(/img/pexels-photo-3649344.jpeg) no-repeat center/cover;
-  color:  lightgray;
+  background: url(/img/pexels-photo-372225.jpeg) no-repeat center/cover;
+  color:  rgb(212, 148, 148);
   font-style: italic ;
-  padding: 400px;
+  padding: 300px;
   font-size: 4.3em;
   line-height: 100px;
-  padding-top: 100px;
+  padding-top: 200px;
   
 }
 h2{
   font-size: 3.5em;
-  color:gray;
+  color:rgb(212, 148, 148);
   text-align: center;
   font-style: italic;
 }
 p {
   text-align: center;
-  background: url(/img/pexels-wendel-moretti-1730877.jpg) no-repeat center/cover;
+  background: url(/img/pexels-photo-1070863.jpeg) no-repeat center/cover;
   font-style: italic;
-  padding: 250px;
+  padding: 200px;
   font-size: 2.5em;
   line-height: 50px;
-  color:lightgray;
+  color:rgb(173, 122, 122);
 }
 h3 {
-  background: url(/img/wedding\ venue.jpeg) no-repeat center/cover;
+  background: url(/img/wedding-venues-berlin-cover-img.jpg) no-repeat center/cover;
   font-size: 3.0em;
-  color:gray;
+  color:rgb(177, 104, 104);
   text-align: center;
-  padding: 250px;
+  padding: 200px;
   font-style: italic;
+  padding-top: 20px;
+  
 }
 h4{
   font-size: 3.5em;
-  color:gray;
+  color:rgb(212, 148, 148);
   text-align: center;
   font-style: italic;
 }
